@@ -1,2 +1,2 @@
 # Arduino-code
-Arduino code for making projects and learning
+Basic Arduino IDE script code
